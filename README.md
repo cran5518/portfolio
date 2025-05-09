@@ -1,11 +1,23 @@
 # Portfolio
 
-## About Me
+## About Me:
 
-## Projects
+## Projects:
 
-## Skills
+## Skills:
 ### Technical Skills
+- Languages
+    - Java
+    - Typescript
+    - C#
+    - C
+    - C++
+    - Html
+    - Css
+    - SQL
+- Software
+    - Visual Studio
 ### Soft Skills
 
-## Resume
+## Resume:
+
