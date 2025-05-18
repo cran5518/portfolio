@@ -18,5 +18,5 @@ Software:
 - Public speaking, organized efficient communication
 - 
 ## Resume:
-
+I have linked my resume [here](./pdfs/GeorgiaCraneResume.pdf).
 
