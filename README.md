@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About Me:
-I am Georgia Crane, a senior at the University of St. Thomas, majoring in computer science with a minor in applied Statistics. I really enjoy coding and problem solving which extends into my free time of solving escape room and watching murder mysteries. I am also an active individual, I love to rock climb and be out in nature.
+Hi! I’m Georgia Crane, a Computer Science major with a minor in Statistics at the University of St. Thomas. Outside of academics, I enjoy a variety of hobbies including escape rooms, rock climbing, reading, drawing, and playing games. I also love spending time with friends and exploring creative outlets like pottery.
 
 ## Projects:
 ### Dungeon Party:
@@ -17,15 +17,19 @@ We used SQLite as the database, with SQLAlchemy and Flask to integrate the Pytho
 ## Skills:
 
 ### Technical Skills
-Languages:
-- Java, Typescript, C#, C, C++, Html, Css, SQL, R
-
-Software:
-- Visual Studio, SQLite, Rstudio
+- Programming Languages: Python, TypeScript, HTML, CSS, C#, C++, Java, R, SQL, C
+- Frameworks & Libraries: Flask, SQLAlchemy, pixi.js, sockets
+- Tools & Platforms: GitHub, Visual Studio, SQLite, RStudio, PyCharm, IntelliJ, Eclipse
+- Web & Database: Front-end design and development, back-end integration, CRUD operations, database schema design, responsive web design
 
 ### Soft Skills
-- Public speaking, organized efficient communication
-- 
+- Organization
+- Adaptability
+- Communication
+- Presenting & Public Speaking
+- Problem Solving
+- Collaboration
+- Attention to Detail
 
 ## Resume:
 I have linked my resume [here](./pdfs/GeorgiaCraneResume.pdf).
