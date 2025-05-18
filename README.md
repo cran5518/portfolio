@@ -12,6 +12,7 @@ Georgia Crane, senior at the University of St. Thomas. Majoring in computer scie
 ### Technical Skills
 Languages:
 - Java, Typescript, C#, C, C++, Html, Css, SQL, R
+
 Software:
 - Visual Studio, SQLite, Rstudio
 
