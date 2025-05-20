@@ -6,7 +6,7 @@ Hi! I’m Georgia Crane, a Computer Science major with a minor in Statistics at 
 ## Projects:
 ![Dungeon Party](./assets/DungeonParty.png)
 ### Dungeon Party:
-**Keywords:** `Game Design` `Full-stack Development` `Multiplayer Game` `Online` `Collaboration` 
+**Keywords:** Game Design, Full-stack Development, Multiplayer Game, Collaboration, Web Development 
 
 **Description:**
 
@@ -16,7 +16,7 @@ As part of a group project, I contributed to both the brainstorming phase and th
 
 ![Vet Management](./assets/VetManagement.png)
 ### Vet Management System:
-**Keywords:** `Database Design` `Teamwork` `Full-stack Development` `Project Leadership`
+**Keywords:** Database Design, Teamwork, Full-stack Development, Project Leadership
 
 **Description:**
 
